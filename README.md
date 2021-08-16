@@ -1,10 +1,10 @@
 ![My Logo](https://github.com/simonjvardy/simonjvardy/blob/main/assets/img/GitHub-name.png)
 
-# Python - Detecting Faces in Images
+# Python - Data Visualisation using Python and Bokeh library #
 
 ## About ##
 
-This coding example is part of a Udemy Python course using Python to detect faces in images.
+This coding example is part of a Udemy Python course using Python to visualise data for modern web browsers.
 
 ---
 
@@ -41,7 +41,6 @@ Ensure the following are installed locally on your computer:
 - [Python 3.6 or higher](https://www.python.org/downloads/)
 - [PIP3](https://pypi.org/project/pip/) Python package installer
 - [Git](https://git-scm.com/) Version Control
-- [PostgreSQL](https://www.postgresql.org/) database with pgAdmin management tool
 
 #### **Cloning the GitHub repository** ####
 
@@ -68,7 +67,6 @@ git clone https://github.com/simonjvardy/Interactive_Data_Visualisation.git
 ```Python
 python3
 ```
-
 
 ---
 
