@@ -22,11 +22,11 @@ This coding example is part of a Udemy Python course using Python to visualise d
 - [Pandas]()
   - Used to read csv data ito DataFrames for plotting graphs using Bokeh
 
-- [openpyxl]()
-  - Used to load Excel .xlsx files
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+  - A Python library to read/write Excel 2010 xlsx/xlsm files
 
-- [xlrd]()
-  - Used to load Excel old .xls files
+- [xlrd](https://xlrd.readthedocs.io/en/latest/)
+  - A Python library Used to load legacy Excel .xls files
 
 ### **Tools** ###
 
