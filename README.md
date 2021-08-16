@@ -19,7 +19,14 @@ This coding example is part of a Udemy Python course using Python to visualise d
 
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html)
   - Bokeh is a Python library for creating interactive visualisations for modern web browsers.
+- [Pandas]()
+  - Used to read csv data ito DataFrames for plotting graphs using Bokeh
 
+- [openpyxl]()
+  - Used to load Excel .xlsx files
+
+- [xlrd]()
+  - Used to load Excel old .xls files
 
 ### **Tools** ###
 
